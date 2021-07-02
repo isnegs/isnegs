@@ -7,7 +7,6 @@
 🌴 Moro em pirajá, mais um bairro periférico de salvador.
 
 🧠 Tenho gastado energia aperfeiçoando minha lógica e os fundamentos da programação.
-<img align="right" alt="zen" src="https://www.instagram.com/p/CLmhjJCl6HT/?utm_source=ig_web_copy_link">
 #
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
