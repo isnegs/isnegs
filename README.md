@@ -1,6 +1,6 @@
 ## Olá, eu sou Ícaro, mas pode me chamar de negs 🤙🏿
 
-👨🏿‍💻 Sou programador, formado no senai como desenvolvedor de sistemas... sou um garoto de programa.
+👨🏿‍💻 Sou programador, formado no senai como desenvolvedor de sistemas... digamos que sou um garoto de programa.
 
 💻 Amo a tecnologia, seja hardware ou software, não existe outra coisa no mundo que me interesse mais.
 
