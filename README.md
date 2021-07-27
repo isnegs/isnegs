@@ -7,8 +7,8 @@
 🌴 Moro em pirajá, mais um bairro periférico de salvador.
 
 🧠 Tenho gastado energia aperfeiçoando meus conhecimentos.
-#
-<!-- <div style="display: inline_block"><br>
+<!-- #
+<div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div> -->
