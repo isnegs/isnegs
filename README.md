@@ -1,12 +1,9 @@
-# Olá, eu sou Ícaro, mas pode me chamar de negs 🤙🏿
-
+## Olá, eu sou Ícaro, mas pode me chamar de negs 🤙🏿
 👨🏿‍💻 Sou programador, formado pelo senai como desenvolvedor de sistemas.
-
 🧠 Tenho gastado energia aperfeiçoando meus conhecimentos.
-
 💻 Amo a área de TI, seja hardware ou software.
-
 🌴 Diretamente de pirajacity.
+#
 
 <!-- #
 <div style="display: inline_block"><br>
