@@ -1,5 +1,4 @@
 # Olá, eu sou Ícaro, mas pode me chamar de negs 🤙🏿
-#
 
 👨🏿‍💻 Sou programador, formado pelo senai como desenvolvedor de sistemas.
 
