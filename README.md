@@ -1,10 +1,4 @@
 ## Bem-vindos ao meu perfil 🤙🏿
-
-* Sou um estudante de desenvolvimento de sistemas.
-* Atualmente estou revendo os fundamentos.
-* Sonho em trabalhar com tecnologia.
-* Diretamente de pirajacity
-
 <div>
   <a href="https://github.com/isnegs"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isnegs&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
