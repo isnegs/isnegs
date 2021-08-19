@@ -1,4 +1,4 @@
-## Hello World Welcome To My Profile 🤙🏿
+## Hello World! Bem-vindo ao meu perfil 🤙🏿
 
 * Sou um estudante de desenvolvimento de sistemas.
 * Atualmente estou revendo os fundamentos.
